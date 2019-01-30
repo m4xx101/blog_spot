@@ -2,6 +2,7 @@
     "telemetry.machineId": "634e5a52c8a12aa89f40fe493e1020940939ffd49ebd473190be2fc56e3aa8d9",
     "openedPathsList": {
         "workspaces2": [
+            "file:///root/Desktop/blog_spot",
             "file:///root/Desktop/web_hello"
         ],
         "files2": []
@@ -18,11 +19,11 @@
                 "path": "/root/Desktop/web_hello",
                 "scheme": "file"
             },
-            "backupPath": "/root/Desktop/web_hello/Backups/f43ae8cf341ad817c100a428def84667",
+            "backupPath": "/root/Desktop/blog_spot/Backups/f43ae8cf341ad817c100a428def84667",
             "uiState": {
                 "mode": 1,
-                "x": 128,
-                "y": 27,
+                "x": 0,
+                "y": 333,
                 "width": 1024,
                 "height": 693
             }
