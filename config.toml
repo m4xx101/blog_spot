@@ -1,0 +1,61 @@
+baseurl         = ""
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "m4xX.!"
+  subtitle    = "pwn pwn pwn.!"
+
+  cover       = "uploads/cover.jpg"
+  description = "Boom I got you.!"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "Deepak_maxx"
+  fbName = "deepak.maxx99"
+  githubName = "m4xx101"
+  youtubeName=""
+
+  logo = "m4xX.!"
+  orgName = "Technopia"
+  orgWebsite = "https://blogs.m4xx.com"
+  orgDescription = "Technopia"
+
+  author = "Deepak Mistry"
+  authorAvatar = "uploads/pqp.jpg"
+  authorLocation = "India, MU"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Pentester, coder"
+
+  pageNotFoundTitle = "404 - You know what it is.!!!"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/categories/project/"
+  weight = 100
+
+[[menu.main]]
+  name = "Web-app Pentesting"
+  url = "/tags/webapps/"
+  weight = 99
+
+[[menu.main]]
+  name = "About Me"
+  url = "/categories/about"
+  weight = 95
